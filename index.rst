@@ -47,4 +47,3 @@ Device Supervisor App为用户提供了便捷且可靠的数据采集、数据�
    :caption: 快速入门
 
    PLC Supervisor用户手册.md
-   API手册.md
