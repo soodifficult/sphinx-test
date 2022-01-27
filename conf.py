@@ -22,7 +22,7 @@ copyright = '2022, ZN'
 author = 'ZN'
 
 # The full version, including alpha/beta/rc tags
-release = '0.2'
+release = 'ZN'
 
 
 # -- General configuration ---------------------------------------------------
